@@ -645,7 +645,7 @@ body > main > div:nth-child(1) > a:nth-child(1) {
 }
 
 .card__icons i {
-    font-size: 17px;
+    font-size: 16px;
     padding: 23%;
 }
 
@@ -654,7 +654,7 @@ body > main > div:nth-child(1) > a:nth-child(1) {
 }
 
 .footer-card p {
-    font-size: 20px;
+    font-size: 19px;
 }
 
 .top__footer p {
