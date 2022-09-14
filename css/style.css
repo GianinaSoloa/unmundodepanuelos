@@ -205,7 +205,7 @@ nav ul li:hover .nav-link{
     background: #333333;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 100%;
-    font-size: 17px;
+    font-size: 20px;
     padding: 23%;
     margin: 0 5%;
     
@@ -635,7 +635,7 @@ body > main > div:nth-child(1) > a:nth-child(1) {
     height: auto;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-    grid-gap: 3%;
+    grid-gap: 30px;
     margin: 0 auto;
     margin-bottom: 30%;
 }
@@ -645,12 +645,12 @@ body > main > div:nth-child(1) > a:nth-child(1) {
 }
 
 .card__icons i {
-    font-size: 16px;
-    padding: 23%;
+    font-size: 15px;
+    padding: 21%;
 }
 
 .card__icons a {
-    margin: 0px;
+    margin: 3px;
 }
 
 .footer-card p {
